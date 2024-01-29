@@ -7,7 +7,7 @@ Welcome to Langchain, a powerful application that utilizes OpenAI's GPT-3.5-turb
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/LLM_Langchain.git
+    git clone https://github.com/GreatClasher/LLM_Langchain.git
     ```
 
 2. **Navigate to the project directory:**
